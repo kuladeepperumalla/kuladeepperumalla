@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FFFFFF00&vCenter=true&width=435&lines=I'm+a+web+developer.;Always+learning+new+things.;5%2B+years+of+coding+Experience.)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://github.com/kuldeepperumalla?user=kuldeepperumalla&theme=dark&ring=FFD308)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kuldeepperumalla&theme=dark&ring=FFD308)](https://git.io)
 
 <!--
 **kuldeepperumalla/kuldeepperumalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
